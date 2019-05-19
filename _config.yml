@@ -83,6 +83,7 @@ create_indicators:
   layout: indicator
 create_goals:
   layout: goal-by-target
+create_pages: true
 
 # Menu
 menu:
@@ -104,6 +105,7 @@ non_global_metadata: indicator.national_metadata
 # The list of languages that are translated. The first one is the default.
 languages:
   - en
+  - fr
 
 # This makes sure that all pages have a language.
 defaults:
