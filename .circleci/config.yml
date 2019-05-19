@@ -56,12 +56,12 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          key: test-dependencies-v1-{{ checksum "Gemfile" }}
+          key: test-dependencies-v2-{{ checksum "Gemfile" }}
       - run:
           name: Install Ruby dependencies
           command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle
       - save_cache:
-          key: test-dependencies-v1-{{ checksum "Gemfile" }}
+          key: test-dependencies-v2-{{ checksum "Gemfile" }}
           paths:
             - vendor/bundle
       - run:
