@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/open-sdg/jekyll-open-sdg-plugins.git
-  revision: 4af5a8a1013b9797e9f1f38d5eba1a60f646e19e
+  revision: 8803e8edbfa82e2888f514e6577d74f61dff1957
   branch: indicator-name-filter
   specs:
     jekyll-open-sdg-plugins (0.0.9)
@@ -83,7 +83,7 @@ GEM
       ffi (~> 1.0)
     rouge (3.3.0)
     ruby_dep (1.5.0)
-    rubyzip (1.2.2)
+    rubyzip (1.2.3)
     safe_yaml (1.0.5)
     sass (3.7.4)
       sass-listen (~> 4.0.0)
