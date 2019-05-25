@@ -257,8 +257,20 @@
       });
       $.when.apply($, geoURLs).done(function() {
 
+        // Apparently "arguments" can either be an array of responses, or if
+        // there was only one response, the response itself. This behavior is
+        // odd and should be investigated. In the meantime, a workaround is a
+        // blunt check to see if it is a single response.
         var geoJsons = arguments;
-        for (var i in geoJsons) {
+        // In a response, the second element is a string (like 'success') so
+        // check for that here to identify whether it is a response.
+        if (arguments.length > 1 && typeof arguments[1] === 'string') {
+          // If so, put it into an array, to match the behavior when there are
+          // multiple responses.
+          geoJsons = [geoJsons];
+        }
+
+        for (var i = 0; i < geoJsons.length; i++) {
           // First add the geoJson as static (non-interactive) borders.
           if (plugin.mapLayers[i].staticBorders) {
             var staticLayer = L.geoJson(geoJsons[i][0], {
@@ -1436,6 +1448,18 @@ var indicatorView = function (model, options) {
       view_obj._chartInstance.options.scales.yAxes[0].scaleLabel.labelString = chartInfo.selectedUnit;
     }
 
+    // Create a temp object to alter, and then apply. We go to all this trouble
+    // to avoid completely replacing view_obj._chartInstance -- and instead we
+    // just replace it's properties: "type", "data", and "options".
+    var updatedConfig = opensdg.chartConfigAlter({
+      type: view_obj._chartInstance.type,
+      data: view_obj._chartInstance.data,
+      options: view_obj._chartInstance.options
+    });
+    view_obj._chartInstance.type = updatedConfig.type;
+    view_obj._chartInstance.data = updatedConfig.data;
+    view_obj._chartInstance.options = updatedConfig.options;
+
     view_obj._chartInstance.update(1000, true);
 
     $(this._legendElement).html(view_obj._chartInstance.generateLegend());
@@ -1509,9 +1533,7 @@ var indicatorView = function (model, options) {
         }
       }
     };
-    if (typeof chartConfigOverrides !== 'undefined') {
-      $.extend(true, chartConfig, chartConfigOverrides);
-    }
+    chartConfig = opensdg.chartConfigAlter(chartConfig);
 
     this._chartInstance = new Chart($(this._rootElement).find('canvas'), chartConfig);
 
@@ -1568,7 +1590,13 @@ var indicatorView = function (model, options) {
         // TODO Merge this with the that.footerFields object used by table
         var graphFooterItems = [];
         if (that._model.dataSource) {
-          graphFooterItems.push(translations.indicator.source + ': ' + that._model.dataSource);
+          var sourceRows = getLinesFromText(translations.indicator.source + ': ' + that._model.dataSource);
+          graphFooterItems = graphFooterItems.concat(sourceRows);
+
+          if(sourceRows.length > 1) {
+            that._chartInstance.resize(parseInt($canvas.css('width')), parseInt($canvas.css('height')) + textRowHeight * sourceRows.length);
+            that._chartInstance.resize();
+          }
         }
         if (that._model.geographicalArea) {
           graphFooterItems.push(translations.indicator.geographical_area + ': ' + that._model.geographicalArea);
@@ -1705,7 +1733,7 @@ var indicatorView = function (model, options) {
       var id = indicatorId.replace('indicator', '');
       $(el).append($('<a />').text(translations.indicator.download_headline)
       .attr({
-        'href': remoteDataBaseUrl + '/headline/' + id + '.csv',
+        'href': opensdg.remoteDataBaseUrl + '/headline/' + id + '.csv',
         'download': headlineId + '.csv',
         'title': translations.indicator.download_headline_title,
         'class': 'btn btn-primary btn-download',
@@ -1717,7 +1745,7 @@ var indicatorView = function (model, options) {
   this.createSourceButton = function(indicatorId, el) {
     $(el).append($('<a />').text(translations.indicator.download_source)
     .attr({
-      'href': remoteDataBaseUrl + '/data/' + indicatorId + '.csv',
+      'href': opensdg.remoteDataBaseUrl + '/data/' + indicatorId + '.csv',
       'download': indicatorId + '.csv',
       'title': translations.indicator.download_source_title,
       'class': 'btn btn-primary btn-download',
