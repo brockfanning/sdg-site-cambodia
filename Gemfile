@@ -5,4 +5,4 @@ gem "html-proofer"
 gem "jekyll-remote-theme"
 gem "deep_merge"
 gem "jekyll-get-json", "~> 0.0.1"
-gem 'jekyll-open-sdg-plugins', :git => 'https://github.com/open-sdg/jekyll-open-sdg-plugins.git', :branch => 'indicator-name-filter'
+gem 'jekyll-open-sdg-plugins', :git => 'https://github.com/open-sdg/jekyll-open-sdg-plugins.git', :branch => 'indicator-name-override-field'
