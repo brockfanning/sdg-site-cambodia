@@ -1,9 +1,9 @@
 GIT
   remote: https://github.com/open-sdg/jekyll-open-sdg-plugins.git
-  revision: 8803e8edbfa82e2888f514e6577d74f61dff1957
-  branch: indicator-name-filter
+  revision: 9b3c9ac7030cc2af677a4afeae5db10a364cd7bf
+  branch: indicator-name-override-field
   specs:
-    jekyll-open-sdg-plugins (0.0.9)
+    jekyll-open-sdg-plugins (0.0.10)
       jekyll (~> 3.0)
 
 GEM
