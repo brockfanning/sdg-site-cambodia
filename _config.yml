@@ -17,23 +17,9 @@ url: ""
 data_dir: data
 environment: staging
 # Replace my-github-org and open-sdg-data-starter as needed.
-remotedatabaseurl: "http://brock.tips/sdg-data-cambodia"
-
-jekyll_get_json:
-  - data: meta
-    # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'http://brock.tips/sdg-data-cambodia/meta/all.json'
-  - data: headlines
-    # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'http://brock.tips/sdg-data-cambodia/headline/all.json'
-  - data: schema
-    # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'http://brock.tips/sdg-data-cambodia/meta/schema.json'
-  - data: reporting
-    # Replace my-github-org and open-sdg-data-starter as needed.
-    json: 'http://brock.tips/sdg-data-cambodia/stats/reporting.json'
-  - data: translations
-    json: 'https://open-sdg.github.io/sdg-translations/translations-0.5.0.json'
+remote_data_prefix: http://brock.tips/sdg-data-cambodia
+remote_translations:
+  - https://open-sdg.github.io/sdg-translations/translations-0.6.0.json
 
 analytics:
   ga_prod: ''
@@ -122,8 +108,7 @@ goal_image_base: https://open-sdg.github.io/sdg-translations/assets/img/goals
 # Tell Jekyll to use the Remote Theme plugin.
 plugins:
   - jekyll-remote-theme
-  - jekyll-get-json
   - jekyll-open-sdg-plugins
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
-remote_theme: open-sdg/open-sdg@0.6.0
+remote_theme: open-sdg/open-sdg@0.7.0
