@@ -84,7 +84,7 @@ menu:
   - path: /faq
     translation_key: menu.faq
   - path: /about
-    translation_key: Duplicate item
+    translation_key: Duplicate item!
 
 # Configure the text (or "translation key") to be used on the
 # non-global metadata tab.
