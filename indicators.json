@@ -1,1011 +1,1176 @@
-[{
+[
+  {
     "goal": {
       "id": "1",
       "title": "End poverty in all its forms everywhere",
-      "indicators": [{
-          "id": "1-4-1",
-          "title": "Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/1-4-1",
-          "status": "complete"
-        },{
-          "id": "1-3-1",
-          "title": "Proportion of the poor and the vulnerable received social emergency relief services",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/1-3-1",
-          "status": "complete"
-        },{
-          "id": "1-2-2",
-          "title": "Proportion of children living in poverty measured by multiple dimensions according to national definitions",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/1-2-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "1-2-1",
           "title": "Proportion of population below national poverty line",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/1-2-1",
           "status": "complete"
+        },
+        {
+          "id": "1-2-2",
+          "title": "Proportion of children living in poverty measured by multiple dimensions according to national definitions",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/1-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "1-3-1",
+          "title": "Proportion of the poor and the vulnerable received social emergency relief services",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/1-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "1-4-1",
+          "title": "Percentage of total members of registered community fisheries and forestry with tenure rights to fisheries and forestry resources management through effective community registration and development",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/1-4-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "2",
       "title": "End hunger, achieve food security and improved nutrition and promote sustainable agriculture",
-      "indicators": [{
-          "id": "2-a-1",
-          "title": "Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-a-1",
-          "status": "complete"
-        },{
-          "id": "2-5-2",
-          "title": "Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-5-2",
-          "status": "complete"
-        },{
-          "id": "2-5-1",
-          "title": "Number of plant genetic resources for food and agriculture secured​ in policy, strategy and either medium or long-term conservation facilities",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-5-1",
-          "status": "complete"
-        },{
-          "id": "2-4-1",
-          "title": "Sustainable Agricultural Land Productivity",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-4-1",
-          "status": "complete"
-        },{
-          "id": "2-3-1",
-          "title": "Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-3-1",
-          "status": "complete"
-        },{
-          "id": "2-2-2",
-          "title": "Percent of children under 5 years old who are moderately or severely wasted",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/2-2-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "2-2-1",
           "title": "Percent of children under 5 years old who are moderately or severely stunted",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/2-2-1",
           "status": "complete"
+        },
+        {
+          "id": "2-2-2",
+          "title": "Percent of children under 5 years old who are moderately or severely wasted",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-1",
+          "title": "Value of agricultural production per unit of labor engaged in agriculture (farming, animal husbandry and fisheries)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-4-1",
+          "title": "Sustainable Agricultural Land Productivity",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-5-1",
+          "title": "Number of plant genetic resources for food and agriculture secured​ in policy, strategy and either medium or long-term conservation facilities",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-5-2",
+          "title": "Percentage of households in community in protected area improving their livelihood through receiving the benefits from NTFPs, integrated agriculture, eco-tourism within the protect areas",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-a-1",
+          "title": "Total Official flows (official development assistance + other official flows) to agriculture sector (as % of GDP)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/2-a-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "3",
       "title": "Ensure healthy lives and promote well-being for all at all ages",
-      "indicators": [{
-          "id": "3-c-1",
-          "title": "Ratio of physician/nurse/midwife per 1,000 population",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-c-1",
-          "status": "complete"
-        },{
-          "id": "3-a-2",
-          "title": "Prevalence of tobacco use among youth aged 13-15",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-a-2",
-          "status": "complete"
-        },{
-          "id": "3-a-1",
-          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-a-1",
-          "status": "complete"
-        },{
-          "id": "3-9-2",
-          "title": "Government Current expenditure on health as % of GDP)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-9-2",
-          "status": "complete"
-        },{
-          "id": "3-9-1",
-          "title": "Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-9-1",
-          "status": "complete"
-        },{
-          "id": "3-8-2",
-          "title": "Teenage pregnancy 15 -19 years",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-8-2",
-          "status": "complete"
-        },{
-          "id": "3-8-1",
-          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-8-1",
-          "status": "complete"
-        },{
-          "id": "3-7-1",
-          "title": "Injury and death due to accident",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-7-1",
-          "status": "complete"
-        },{
-          "id": "3-6-2",
-          "title": "Prevalence of alcohol use among among population above 18 years old",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-6-2",
-          "status": "complete"
-        },{
-          "id": "3-6-1",
-          "title": "Percentage of people with drug used received treatment",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-6-1",
-          "status": "complete"
-        },{
-          "id": "3-5-2",
-          "title": "Percentage of adult population with depression received treatment",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-5-2",
-          "status": "complete"
-        },{
-          "id": "3-5-1",
-          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-5-1",
-          "status": "complete"
-        },{
-          "id": "3-4-3",
-          "title": "Malaria incidence",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-4-3",
-          "status": "complete"
-        },{
-          "id": "3-4-2",
-          "title": "Incidence of tuberculosis per 100,000 population",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-4-2",
-          "status": "complete"
-        },{
-          "id": "3-4-1",
-          "title": "% of new HIV infection per 1000 uninfected population",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-4-1",
-          "status": "complete"
-        },{
-          "id": "3-3-2",
-          "title": "Neonatal mortality rate",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-3-2",
-          "status": "complete"
-        },{
-          "id": "3-3-1",
-          "title": "Under-five mortality rate (U5MR)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-3-1",
-          "status": "complete"
-        },{
-          "id": "3-2-2",
-          "title": "Proportion of births attended by skilled health personnel",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-2-2",
-          "status": "complete"
-        },{
-          "id": "3-2-1",
-          "title": "Maternal mortality ratio (MMR)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-2-1",
-          "status": "complete"
-        },{
-          "id": "3-1-2",
-          "title": "Total fertility rate",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/3-1-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "3-1-1",
           "title": "Life expectancy at birth",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/3-1-1",
           "status": "complete"
+        },
+        {
+          "id": "3-1-2",
+          "title": "Total fertility rate",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-2-1",
+          "title": "Maternal mortality ratio (MMR)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-2-2",
+          "title": "Proportion of births attended by skilled health personnel",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-1",
+          "title": "Under-five mortality rate (U5MR)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-3-2",
+          "title": "Neonatal mortality rate",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-1",
+          "title": "% of new HIV infection per 1000 uninfected population",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-2",
+          "title": "Incidence of tuberculosis per 100,000 population",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-4-3",
+          "title": "Malaria incidence",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-1",
+          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-5-2",
+          "title": "Percentage of adult population with depression received treatment",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-6-1",
+          "title": "Percentage of people with drug used received treatment",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-6-2",
+          "title": "Prevalence of alcohol use among among population above 18 years old",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-6-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-7-1",
+          "title": "Injury and death due to accident",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-1",
+          "title": "Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-8-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-8-2",
+          "title": "Teenage pregnancy 15 -19 years",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-8-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-9-1",
+          "title": "Percentage of the population covered by social health protection systemsi.e. Health Equity Funds and Social Health Insurance schemes",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-9-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-9-2",
+          "title": "Government Current expenditure on health as % of GDP)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-9-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-a-1",
+          "title": "Age-standardized prevalence of current tobacco use among persons aged 15 years and older",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-a-1",
+          "status": "complete"
+        },
+        {
+          "id": "3-a-2",
+          "title": "Prevalence of tobacco use among youth aged 13-15",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "3-c-1",
+          "title": "Ratio of physician/nurse/midwife per 1,000 population",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/3-c-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "4",
       "title": "Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all",
-      "indicators": [{
-          "id": "4-c-5",
-          "title": "Percentage of teachers who received in-service training",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-c-5",
-          "status": "complete"
-        },{
-          "id": "4-c-4",
-          "title": "Percentage of secondary teachers qualified according to national standards",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-c-4",
-          "status": "complete"
-        },{
-          "id": "4-c-3",
-          "title": "Percentage of primary teachers qualified according to national standards",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-c-3",
-          "status": "complete"
-        },{
-          "id": "4-c-2",
-          "title": "Percentage of pre school teachers qualified according to national standards",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-c-2",
-          "status": "complete"
-        },{
-          "id": "4-c-1",
-          "title": "Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-c-1",
-          "status": "complete"
-        },{
-          "id": "4-a-3",
-          "title": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-a-3",
-          "status": "complete"
-        },{
-          "id": "4-a-2",
-          "title": "Proportion of schools with access to single-sex basic sanitation facilities",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-a-2",
-          "status": "complete"
-        },{
-          "id": "4-a-1",
-          "title": "Proportion of schools with access to basic drinking water",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-a-1",
-          "status": "complete"
-        },{
-          "id": "4-6-1",
-          "title": "Literacy rate by age group",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-6-1",
-          "status": "complete"
-        },{
-          "id": "4-5-2",
-          "title": "Gender parity index in upper secondary education",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-5-2",
-          "status": "complete"
-        },{
-          "id": "4-5-1",
-          "title": "Gender parity index in lower secondary education",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-5-1",
-          "status": "complete"
-        },{
-          "id": "4-3-2",
-          "title": "Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds)",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-3-2",
-          "status": "complete"
-        },{
-          "id": "4-3-1",
-          "title": "Gross enrolment rate in tertiary education (aged 18-21 years) by sex",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-3-1",
-          "status": "complete"
-        },{
-          "id": "4-2-2",
-          "title": "Percentage ofchildren attended all aspects of ECE",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-2-2",
-          "status": "complete"
-        },{
-          "id": "4-2-1",
-          "title": "Proportion of grade 1 student passed through all ECE programs",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-2-1",
-          "status": "complete"
-        },{
-          "id": "4-1-1-2",
-          "title": "Completion rate Grade 9",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/4-1-1-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "4-1-1-1",
           "title": "Completion rate Grade 6",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/4-1-1-1",
           "status": "complete"
+        },
+        {
+          "id": "4-1-1-2",
+          "title": "Completion rate Grade 9",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-1-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-1",
+          "title": "Proportion of grade 1 student passed through all ECE programs",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-2",
+          "title": "Percentage ofchildren attended all aspects of ECE",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1",
+          "title": "Gross enrolment rate in tertiary education (aged 18-21 years) by sex",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-2",
+          "title": "Gross enrolment rate in technical-vocational education programmes (15- to 24-year-olds)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-5-1",
+          "title": "Gender parity index in lower secondary education",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-5-2",
+          "title": "Gender parity index in upper secondary education",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-6-1",
+          "title": "Literacy rate by age group",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-a-1",
+          "title": "Proportion of schools with access to basic drinking water",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-a-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-a-2",
+          "title": "Proportion of schools with access to single-sex basic sanitation facilities",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-a-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-a-3",
+          "title": "Proportion of schools with access to adapted infrastructure and materials for students with disabilities",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-a-3",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-1",
+          "title": "Proportion of teachers inpre-primary, primary,  lower secondary and upper secondary education who have received pre-service or in-service training",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-c-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-2",
+          "title": "Percentage of pre school teachers qualified according to national standards",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-c-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-3",
+          "title": "Percentage of primary teachers qualified according to national standards",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-c-3",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-4",
+          "title": "Percentage of secondary teachers qualified according to national standards",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-c-4",
+          "status": "complete"
+        },
+        {
+          "id": "4-c-5",
+          "title": "Percentage of teachers who received in-service training",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/4-c-5",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "5",
       "title": "Achieve gender equality and empower all women and girls",
-      "indicators": [{
-          "id": "5-c-2",
-          "title": "Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-c-2",
-          "status": "complete"
-        },{
-          "id": "5-6-2",
-          "title": "The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-6-2",
-          "status": "complete"
-        },{
-          "id": "5-6-1",
-          "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-6-1",
-          "status": "complete"
-        },{
-          "id": "5-5-3",
-          "title": "Proportion of seats held by women in commune councils",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-5-3",
-          "status": "complete"
-        },{
-          "id": "5-5-2",
-          "title": "Proportion of under secretary of state who are women",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-5-2",
-          "status": "complete"
-        },{
-          "id": "5-5-1",
-          "title": "Proportion of seats held by women in legislative organs",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-5-1",
-          "status": "complete"
-        },{
-          "id": "5-4-1",
-          "title": ". Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-4-1",
-          "status": "complete"
-        },{
-          "id": "5-3-1",
-          "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-3-1",
-          "status": "complete"
-        },{
-          "id": "5-2-2",
-          "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-2-2",
-          "status": "complete"
-        },{
-          "id": "5-2-1",
-          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/5-2-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "5-1-1",
           "title": "Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/5-1-1",
           "status": "complete"
+        },
+        {
+          "id": "5-2-1",
+          "title": "Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-2-2",
+          "title": "Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-3-1",
+          "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-4-1",
+          "title": ". Number of legal and policy measures to address and recognize work-life balance, and unpaid care and domestic works, and promote women's increased access to decent employment",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-5-1",
+          "title": "Proportion of seats held by women in legislative organs",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-5-2",
+          "title": "Proportion of under secretary of state who are women",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-5-3",
+          "title": "Proportion of seats held by women in commune councils",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "5-6-1",
+          "title": "Proportion of women aged 15–49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "5-6-2",
+          "title": "The number of laws, policies, plans and legal regulations that ensure that all women have access to information , education and sexual and reproductive health services",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-6-2",
+          "status": "complete"
+        },
+        {
+          "id": "5-c-2",
+          "title": "Number of line Ministries, Line Agencies have development and Implement Gender Mainstreaming Strategic  Plan",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/5-c-2",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "6",
       "title": "Ensure availability and sustainable management of water and sanitation for all",
-      "indicators": [{
-          "id": "6-a-1",
-          "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/6-a-1",
-          "status": "complete"
-        },{
-          "id": "6-4-1",
-          "title": "By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/6-4-1",
-          "status": "complete"
-        },{
-          "id": "6-3-1",
-          "title": "Proportion of wastewater safely treated",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/6-3-1",
-          "status": "complete"
-        },{
-          "id": "6-2-1",
-          "title": "Proportion of population using an improved sanitation facility",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/6-2-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "6-1-1",
           "title": "Proportion of population using an improved drinking water source",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/6-1-1",
           "status": "complete"
+        },
+        {
+          "id": "6-2-1",
+          "title": "Proportion of population using an improved sanitation facility",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/6-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-3-1",
+          "title": "Proportion of wastewater safely treated",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/6-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-4-1",
+          "title": "By 2025, all Cambodian people living in urban areas have access to clean water sustainably with quality and affordable price",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/6-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "6-a-1",
+          "title": "Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/6-a-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "7",
       "title": "Ensure access to affordable, reliable, sustainable and modern energy for all",
-      "indicators": [{
-          "id": "7-3-1",
-          "title": "Proption of primary energy with GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/7-3-1",
-          "status": "complete"
-        },{
-          "id": "7-2-1",
-          "title": "Annual energy consumption",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/7-2-1",
-          "status": "complete"
-        },{
-          "id": "7-1-2",
-          "title": "Proportion of population with primary reliance on clean fuels and technology",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/7-1-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "7-1-1",
           "title": "Household by main source of lighting",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/7-1-1",
           "status": "complete"
+        },
+        {
+          "id": "7-1-2",
+          "title": "Proportion of population with primary reliance on clean fuels and technology",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/7-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "7-2-1",
+          "title": "Annual energy consumption",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/7-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "7-3-1",
+          "title": "Proption of primary energy with GDP",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/7-3-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "8",
       "title": "Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all",
-      "indicators": [{
-          "id": "8-a-1",
-          "title": "Aid for Trade Commitments and Disbursements",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-a-1",
-          "status": "complete"
-        },{
-          "id": "8-9-2",
-          "title": "Number of employees in tourism industries as a proportion of total employees in all sectors",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-9-2",
-          "status": "complete"
-        },{
-          "id": "8-9-1",
-          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-9-1",
-          "status": "complete"
-        },{
-          "id": "8-2-3-1",
-          "title": "All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-2-3-1",
-          "status": "complete"
-        },{
-          "id": "8-2-2-3",
-          "title": "Growth Rate of online issuing the Cerficate of Origin",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-2-2-3",
-          "status": "complete"
-        },{
-          "id": "8-2-2-2",
-          "title": "Growth rate of online trade mark registration",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-2-2-2",
-          "status": "complete"
-        },{
-          "id": "8-2-2-1",
-          "title": "Growth rate of online company registration",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/8-2-2-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "8-1-1",
           "title": "Annual GDP growth rate at constant prices",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/8-1-1",
           "status": "complete"
+        },
+        {
+          "id": "8-2-2-1",
+          "title": "Growth rate of online company registration",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-2-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-2-2",
+          "title": "Growth rate of online trade mark registration",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-2-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-2-3",
+          "title": "Growth Rate of online issuing the Cerficate of Origin",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-2-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "8-2-3-1",
+          "title": "All kinds of products both goods and services that have been processed or developed and have been included in OVOP Movement",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-2-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-9-1",
+          "title": "Tourism direct GDP as a proportion of total GDP and in growth rate",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-9-1",
+          "status": "complete"
+        },
+        {
+          "id": "8-9-2",
+          "title": "Number of employees in tourism industries as a proportion of total employees in all sectors",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-9-2",
+          "status": "complete"
+        },
+        {
+          "id": "8-a-1",
+          "title": "Aid for Trade Commitments and Disbursements",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/8-a-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "9",
       "title": "Build resilient infrastructure, promote inclusive and sustainable industrialization and foster innovation",
-      "indicators": [{
-          "id": "9-c-1",
-          "title": "Proportion of population covered by a mobile network, by technology",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/9-c-1",
-          "status": "complete"
-        },{
-          "id": "9-a-1",
-          "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/9-a-1",
-          "status": "complete"
-        },{
-          "id": "9-5-1",
-          "title": "Research and development expenditure as a proportion of GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/9-5-1",
-          "status": "complete"
-        },{
-          "id": "9-2-1",
-          "title": "Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/9-2-1",
-          "status": "complete"
-        },{
-          "id": "9-1-3",
-          "title": "Air transport, international freight",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/9-1-3",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "9-1-2",
           "title": "Air transport, international passengers carried",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/9-1-2",
           "status": "complete"
+        },
+        {
+          "id": "9-1-3",
+          "title": "Air transport, international freight",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/9-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "9-2-1",
+          "title": "Number of Cambodian employees in manufacturing sector as a proportion to total employment within thecountry",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/9-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-5-1",
+          "title": "Research and development expenditure as a proportion of GDP",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/9-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-a-1",
+          "title": "Total official international support (official development assistance plus other official flows) to infrastructure",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/9-a-1",
+          "status": "complete"
+        },
+        {
+          "id": "9-c-1",
+          "title": "Proportion of population covered by a mobile network, by technology",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/9-c-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "10",
       "title": "Reduce inequality within and among countries",
-      "indicators": [{
-          "id": "10-b-1",
-          "title": ".  Total official development assistance for Cambodia",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/10-b-1",
-          "status": "complete"
-        },{
-          "id": "10-a-1",
-          "title": "Number of Trade Related Agreement with other countries",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/10-a-1",
-          "status": "complete"
-        },{
-          "id": "10-4-1",
-          "title": "Civil Servants Retirees and invalid people who receive pension benefits",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/10-4-1",
-          "status": "complete"
-        },{
-          "id": "10-2-1",
-          "title": "Proportion of people living below 50 per cent of median income",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/10-2-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "10-1-1",
           "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/10-1-1",
           "status": "complete"
+        },
+        {
+          "id": "10-2-1",
+          "title": "Proportion of people living below 50 per cent of median income",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/10-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-4-1",
+          "title": "Civil Servants Retirees and invalid people who receive pension benefits",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/10-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-a-1",
+          "title": "Number of Trade Related Agreement with other countries",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/10-a-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-b-1",
+          "title": ".  Total official development assistance for Cambodia",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/10-b-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "11",
       "title": "Make cities and human settlements inclusive, safe, resilient and sustainable",
-      "indicators": [{
-          "id": "11-6-4",
-          "title": "Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/11-6-4",
-          "status": "complete"
-        },{
-          "id": "11-6-3",
-          "title": "Percentage of the solid wasted will be segregate by technical guidance",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/11-6-3",
-          "status": "complete"
-        },{
-          "id": "11-6-2",
-          "title": "Percentage of the deduction plastic bag used",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/11-6-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "11-6-1",
           "title": "Amount of urban solid waste regularly collected and with adequate final discharge",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/11-6-1",
           "status": "complete"
+        },
+        {
+          "id": "11-6-2",
+          "title": "Percentage of the deduction plastic bag used",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/11-6-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-3",
+          "title": "Percentage of the solid wasted will be segregate by technical guidance",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/11-6-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-4",
+          "title": "Annual average of the parameters of CO, NO2, SO2, TSP, PM2.5 and PM10",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/11-6-4",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "12",
       "title": "Ensure sustainable consumption and production patterns",
-      "indicators": [{
-          "id": "12-5-1",
-          "title": "National recycling rate, tons of material recycled",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/12-5-1",
-          "status": "complete"
-        },{
-          "id": "12-4-3",
-          "title": "Effectiveness management of hazardous waste and biological and radioactive waste",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/12-4-3",
-          "status": "complete"
-        },{
-          "id": "12-4-2",
-          "title": "Percentage of release reduction of mercury (Hg) to the environment",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/12-4-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "12-4-1",
           "title": "Percentage of release reduction of Persistent Organic Pollutants (POPs) to the environment",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/12-4-1",
           "status": "complete"
+        },
+        {
+          "id": "12-4-2",
+          "title": "Percentage of release reduction of mercury (Hg) to the environment",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/12-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "12-4-3",
+          "title": "Effectiveness management of hazardous waste and biological and radioactive waste",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/12-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "12-5-1",
+          "title": "National recycling rate, tons of material recycled",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/12-5-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "13",
       "title": "Take urgent action to combat climate change and its impacts",
-      "indicators": [{
-          "id": "13-3-2",
-          "title": "Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/13-3-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "13-1-1",
           "title": "Percentage of communes/Sangkats vulnerable to climate change",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/13-1-1",
           "status": "complete"
+        },
+        {
+          "id": "13-3-2",
+          "title": "Percentage of households (farming, animal raising, fish raising, and fishing) and local community forestry members participated workshops and received training on climate change",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/13-3-2",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "14",
       "title": "Conserve and sustainably use the oceans, seas and marine resources for sustainable development",
-      "indicators": [{
-          "id": "14-b-1",
-          "title": "Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/14-b-1",
-          "status": "complete"
-        },{
-          "id": "14-7-1",
-          "title": "Value of sustainable fisheries production as a percentage of GDP",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/14-7-1",
-          "status": "complete"
-        },{
-          "id": "14-5-1",
-          "title": "Percentage of coverage of marine and inland fisheries conservation areas protected",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/14-5-1",
-          "status": "complete"
-        },{
-          "id": "14-2-2",
-          "title": "Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/14-2-2",
-          "status": "complete"
-        },{
-          "id": "14-2-1",
-          "title": "Key ecosystem function and service of marine and coast area maintained and restore as necessary",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/14-2-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "14-1-1",
           "title": "Percentage of the reduction of the sea pollution by the conservation activities",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/14-1-1",
           "status": "complete"
+        },
+        {
+          "id": "14-2-1",
+          "title": "Key ecosystem function and service of marine and coast area maintained and restore as necessary",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/14-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-2-2",
+          "title": "Percentage of degraded freshwater flooded forests and mangrove forests (ha) that has been transplanted and protected",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/14-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "14-5-1",
+          "title": "Percentage of coverage of marine and inland fisheries conservation areas protected",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/14-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-7-1",
+          "title": "Value of sustainable fisheries production as a percentage of GDP",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/14-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-b-1",
+          "title": "Percentage of marine resources  which  small-scale fisheries farmers harvested and sold in a stable marke",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/14-b-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "15",
       "title": "Protect, restore and promote sustainable use of terrestrial ecosystems, sustainably manage forests, combat desertification, and halt and reverse land degradation and halt biodiversity loss",
-      "indicators": [{
-          "id": "15-b-1",
-          "title": "Official development assistance for conservation and sustainable use of biodiversity and ecosystems",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-b-1",
-          "status": "complete"
-        },{
-          "id": "15-9-2",
-          "title": "Number of policies, strategies and regulations on ecosystem services is established and implemented",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-9-2",
-          "status": "complete"
-        },{
-          "id": "15-7-1",
-          "title": "Number of cases of illegal poaching and trafficking of flora and fauna decreased",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-7-1",
-          "status": "complete"
-        },{
-          "id": "15-5-1",
-          "title": "Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-5-1",
-          "status": "complete"
-        },{
-          "id": "15-3-1",
-          "title": "Area of forest landscape restoration for areas affected by desertification, drought and floods",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-3-1",
-          "status": "complete"
-        },{
-          "id": "15-2-1",
-          "title": "Percentage of sustainable forest protection and management",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-2-1",
-          "status": "complete"
-        },{
-          "id": "15-1-3",
-          "title": "Forest areas and ecosystems sustainably utilized",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-1-3",
-          "status": "complete"
-        },{
-          "id": "15-1-2",
-          "title": "Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/15-1-2",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "15-1-1",
           "title": "Proportion of land areas covered by forest",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/15-1-1",
           "status": "complete"
+        },
+        {
+          "id": "15-1-2",
+          "title": "Percentage of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-1-3",
+          "title": "Forest areas and ecosystems sustainably utilized",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-2-1",
+          "title": "Percentage of sustainable forest protection and management",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-1",
+          "title": "Area of forest landscape restoration for areas affected by desertification, drought and floods",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-5-1",
+          "title": "Number of action plans forconservation of rare and endangered species of fauna and flora developed and implemented",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-7-1",
+          "title": "Number of cases of illegal poaching and trafficking of flora and fauna decreased",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-9-2",
+          "title": "Number of policies, strategies and regulations on ecosystem services is established and implemented",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-9-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-b-1",
+          "title": "Official development assistance for conservation and sustainable use of biodiversity and ecosystems",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/15-b-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "16",
       "title": "Promote peaceful and inclusive societies for sustainable development, provide access to justice for all and build effective, accountable and inclusive institutions at all levels",
-      "indicators": [{
-          "id": "16-7-1",
-          "title": "Proportion of female in civil servant",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/16-7-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "16-3-1",
           "title": "Proportion of people involved in disseminating laws",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/16-3-1",
           "status": "complete"
+        },
+        {
+          "id": "16-7-1",
+          "title": "Proportion of female in civil servant",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/16-7-1",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "17",
       "title": "Strengthen the means of implementation and revitalize the Global Partnership for Sustainable Development",
-      "indicators": [{
-          "id": "17-9-2",
-          "title": "Amount of ODA to Economic and Development Policy/Planning (as % of GDP)​​​ committed to Cambodia",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/17-9-2",
-          "status": "complete"
-        },{
-          "id": "17-9-1",
-          "title": "Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/17-9-1",
-          "status": "complete"
-        },{
-          "id": "17-8-1",
-          "title": "Internet users",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/17-8-1",
-          "status": "complete"
-        },{
-          "id": "17-6-1",
-          "title": "Percentage of population connect to Fixed Internet broadband subscriptions, by speed",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/17-6-1",
-          "status": "complete"
-        },{
+      "indicators": [
+        
+        {
           "id": "17-3-1",
           "title": "Official development assistance as % of GDP",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/17-3-1",
           "status": "complete"
-        },{
-          "id": "17-18-2",
-          "title": "Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS)",
+        },
+        {
+          "id": "17-6-1",
+          "title": "Percentage of population connect to Fixed Internet broadband subscriptions, by speed",
           "description": "",
           "keywords": "",
-          "href": "/sdg-site-cambodia/17-18-2",
+          "href": "/sdg-site-cambodia/17-6-1",
           "status": "complete"
-        },{
-          "id": "17-17-1",
-          "title": "Amount of ODA disbursed to civil society partnerships (as % of GDP)",
+        },
+        {
+          "id": "17-8-1",
+          "title": "Internet users",
           "description": "",
           "keywords": "",
-          "href": "/sdg-site-cambodia/17-17-1",
+          "href": "/sdg-site-cambodia/17-8-1",
           "status": "complete"
-        },{
+        },
+        {
+          "id": "17-9-1",
+          "title": "Total financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to Cambodia",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/17-9-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-9-2",
+          "title": "Amount of ODA to Economic and Development Policy/Planning (as % of GDP)​​​ committed to Cambodia",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/17-9-2",
+          "status": "complete"
+        },
+        {
           "id": "17-10-1",
           "title": "The number of commercial legal norms and standards set up to facilitate local investors and investors in trading",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/17-10-1",
           "status": "complete"
+        },
+        {
+          "id": "17-17-1",
+          "title": "Amount of ODA disbursed to civil society partnerships (as % of GDP)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/17-17-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-18-2",
+          "title": "Proportion of budget expenditure for implementation the National Strategy for the Development of Statistic (NSDS)",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/17-18-2",
+          "status": "complete"
         }]
     }
-  },{
+  },
+  {
     "goal": {
       "id": "18",
-      "title": "",
-      "indicators": [{
-          "id": "18-3-3",
-          "title": "The number of mine and ERW casualties received emergency  and rapid response from CMAA",
+      "title": "global_goals.18-title",
+      "indicators": [
+        
+        {
+          "id": "18-1-1",
+          "title": "Total cumulated areas cleared of mines/ERW",
           "description": "",
           "keywords": "",
-          "href": "/sdg-site-cambodia/18-3-3",
+          "href": "/sdg-site-cambodia/18-1-1",
           "status": "complete"
-        },{
-          "id": "18-3-2",
-          "title": "The number of mine and ERW casualties received rehabilitation service",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/18-3-2",
-          "status": "complete"
-        },{
-          "id": "18-3-1",
-          "title": "The number of mine and ERW casualties received rights promotion",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/18-3-1",
-          "status": "complete"
-        },{
-          "id": "18-2-2",
-          "title": "The number of villages contaminated by mines / ERW to receive Mine Risk Educationmessages",
-          "description": "",
-          "keywords": "",
-          "href": "/sdg-site-cambodia/18-2-2",
-          "status": "complete"
-        },{
+        },
+        {
           "id": "18-2-1",
           "title": "Number of civilian casualties from mines/ERW",
           "description": "",
           "keywords": "",
           "href": "/sdg-site-cambodia/18-2-1",
           "status": "complete"
-        },{
-          "id": "18-1-1",
-          "title": "Total cumulated areas cleared of mines/ERW",
+        },
+        {
+          "id": "18-2-2",
+          "title": "The number of villages contaminated by mines / ERW to receive Mine Risk Educationmessages",
           "description": "",
           "keywords": "",
-          "href": "/sdg-site-cambodia/18-1-1",
+          "href": "/sdg-site-cambodia/18-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "18-3-1",
+          "title": "The number of mine and ERW casualties received rights promotion",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/18-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "18-3-2",
+          "title": "The number of mine and ERW casualties received rehabilitation service",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/18-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "18-3-3",
+          "title": "The number of mine and ERW casualties received emergency  and rapid response from CMAA",
+          "description": "",
+          "keywords": "",
+          "href": "/sdg-site-cambodia/18-3-3",
           "status": "complete"
         }]
     }
