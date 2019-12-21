@@ -30,7 +30,9 @@ jobs:
         bundle install
         bundle exec jekyll build
     - name: before deploy
-      run: pwd
+      run: |
+        pwd
+        ls -al scripts
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
@@ -39,4 +41,6 @@ jobs:
         BRANCH: gh-pages
         FOLDER: _site
     - name: after deploy
-      run: pwd
+      run: |
+        pwd
+        ls -al scripts
